@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akindele Oluwatosin
 
-I am a 3rd-year Software Engineering student passionate about Full Stack Web and Mobile development and building innovative technological solutions.
+I am a 4th-year Software Engineering student passionate about Full Stack Web and Mobile development and building innovative technological solutions.
 
 **Skills:**  
 Python | C++ | JavaScript | Rust | React | NodeJS | Express | HTML | CSS
